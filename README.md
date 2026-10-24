@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai_Reddy-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/saireddy026)
 [![Email](https://img.shields.io/badge/Email-Let%27s_Connect-0891B2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikovvuri026@gmail.com)
 
-**🎓 Aditya University · CSE '28 &nbsp; | &nbsp; 💼 Open to Software Engineering Internships**
+**🎓 Aditya University · CSE '28 &nbsp; | &nbsp; 💼 Open to Software Engineering Internships and Job Offers**
 
 </div>
 
